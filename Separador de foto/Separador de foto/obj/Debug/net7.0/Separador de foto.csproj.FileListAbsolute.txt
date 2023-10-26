@@ -1,0 +1,14 @@
+C:\Users\Rosário 7\Desktop\Separador de foto\Separador de foto\obj\Debug\net7.0\Separador de foto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosário 7\Desktop\Separador de foto\Separador de foto\obj\Debug\net7.0\Separador de foto.AssemblyInfoInputs.cache
+C:\Users\Rosário 7\Desktop\Separador de foto\Separador de foto\obj\Debug\net7.0\Separador de foto.AssemblyInfo.cs
+C:\Users\Rosário 7\Desktop\Separador de foto\Separador de foto\obj\Debug\net7.0\Separador de foto.csproj.CoreCompileInputs.cache
+C:\Users\Rosário 7\Desktop\Separador de foto\Separador de foto\bin\Debug\net7.0\Separador de foto.exe
+C:\Users\Rosário 7\Desktop\Separador de foto\Separador de foto\bin\Debug\net7.0\Separador de foto.deps.json
+C:\Users\Rosário 7\Desktop\Separador de foto\Separador de foto\bin\Debug\net7.0\Separador de foto.runtimeconfig.json
+C:\Users\Rosário 7\Desktop\Separador de foto\Separador de foto\bin\Debug\net7.0\Separador de foto.dll
+C:\Users\Rosário 7\Desktop\Separador de foto\Separador de foto\bin\Debug\net7.0\Separador de foto.pdb
+C:\Users\Rosário 7\Desktop\Separador de foto\Separador de foto\obj\Debug\net7.0\Separador de foto.dll
+C:\Users\Rosário 7\Desktop\Separador de foto\Separador de foto\obj\Debug\net7.0\refint\Separador de foto.dll
+C:\Users\Rosário 7\Desktop\Separador de foto\Separador de foto\obj\Debug\net7.0\Separador de foto.pdb
+C:\Users\Rosário 7\Desktop\Separador de foto\Separador de foto\obj\Debug\net7.0\Separador de foto.genruntimeconfig.cache
+C:\Users\Rosário 7\Desktop\Separador de foto\Separador de foto\obj\Debug\net7.0\ref\Separador de foto.dll
